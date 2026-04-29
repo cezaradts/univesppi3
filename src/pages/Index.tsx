@@ -25,7 +25,7 @@ const Index = () => {
     );
 
     if (empty.length !== 1) {
-      alert("Deixe exatamente UM campo em branco para calcular.");
+      alert("Deixe exatamente UMO campo em branco para calcular.");
       return;
     }
 
